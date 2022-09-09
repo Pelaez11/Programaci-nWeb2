@@ -1,0 +1,54 @@
+.fondblue{
+    background-color: #0d627f;/
+    background-color: rgb(26, 188, 156);
+}
+.fondrojo{
+    background-color: #c63218;
+}
+.fondoazul{
+    background-color: #18bec6;
+}
+.fondoblanco{
+    background-color: blanchedalmond;
+}
+.fondomorado{
+    background-color: blueviolet;
+}
+.fondoamarillo{
+    background-color: #dec707 ;
+}
+.fondoverdeclaro{
+    background-color: greenyellow;
+}
+.titleEj{
+    color: black;
+}
+.titleEj{
+    font-size: 30px;
+}
+.bordegris1{
+    border: 8px outset rgb(128, 128, 128);
+}
+.bordegris2{
+    border: 8px outset rgb(128, 128, 128);
+}
+.bordegris3{
+    border: 15px outset rgb(128, 128, 128);
+}
+.bordgris4{
+    border: 2px outset rgb(128, 128, 128);
+}
+.bordnegro{
+    border: 1px outset rgb(0, 0, 0);
+}
+.tamcuad{
+    width: 100%;
+}
+/* se puede poner la "variable"  ya sea body table etc
+ y se aplicara a todo lo que sea del mismo tipo*/
+/margen, si fue a drede la u extra/
+ .marguen{
+     margin: -5px;
+     padding: -5px;
+
+}
